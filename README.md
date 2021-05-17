@@ -1,4 +1,4 @@
-#New Things learnt:
+# New Things learnt:
 
 1. Even Dividing an integer by another integer and storing it in a double we don't get the complete decimal result untill it is type casted.
 	Example:
